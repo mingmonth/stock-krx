@@ -74,6 +74,10 @@ Symbol,Market,Name,Sector,Industry,ListingDate,SettleMonth,Representative,HomePa
 000995,KOSPI,DB하이텍1우,,,,,,,
 139130,KOSPI,DGB금융지주,기타 금융업,지주회사,2011-06-07,12월,김태오,http://www.dgbfg.co.kr,대구광역시
 001530,KOSPI,DI동일,상품 중개업,"면사,화섬사,면포,혼방포,스포츠웨어용 신합섬 제조,도매,수출",1964-01-04,12월,"서태원, 손재선",http://www.dong-il.com,서울특별시
+000210,KOSPI,DL,토목 건설업,지주회사,1976-02-02,12월,배원복,http://www.dlholdings.co.kr,서울특별시
+000215,KOSPI,DL우,,,,,,,
+375500,KOSPI,DL이앤씨,토목 건설업,토목 건설 사업,2021-01-25,12월,마창민,,서울특별시
+37550K,KOSPI,DL이앤씨우,,,,,,,
 068790,KOSDAQ,DMS,특수 목적용 기계 제조업,LCD 제조장비,2004-10-01,12월,박용석,http://www.dms21.co.kr,경기도
 004840,KOSPI,DRB동일,기타 금융업,"고무벨트(V벨트,콘베이어벨트,평벨트),프라스틱제품 제조,판매",1976-05-21,12월,류영식,http://drbworld.com,부산광역시
 241520,KOSDAQ,DSC인베스트먼트,신탁업 및 집합투자업,투자조합 결성 및 투자,2016-12-19,12월,윤건수,http://www.dscinvestment.com,서울특별시
@@ -1448,7 +1452,6 @@ Symbol,Market,Name,Sector,Industry,ListingDate,SettleMonth,Representative,HomePa
 55FE33,KOSPI,NHFE33삼성전자콜,,,,,,,
 55FE34,KOSPI,NHFE34삼성전자콜,,,,,,,
 55FE35,KOSPI,NHFE35삼성전자콜,,,,,,,
-55FE36,KOSPI,NHFE36삼성전자콜,,,,,,,
 55FE38,KOSPI,NHFE38삼성전자콜,,,,,,,
 55FE39,KOSPI,NHFE39삼성전자콜,,,,,,,
 55FE40,KOSPI,NHFE40삼성전자콜,,,,,,,
@@ -1463,7 +1466,6 @@ Symbol,Market,Name,Sector,Industry,ListingDate,SettleMonth,Representative,HomePa
 55FE49,KOSPI,NHFE49SK하이닉콜,,,,,,,
 55FE50,KOSPI,NHFE50SK하이닉콜,,,,,,,
 55FE51,KOSPI,NHFE51SK하이닉콜,,,,,,,
-55FE52,KOSPI,NHFE52SK하이닉콜,,,,,,,
 55FE53,KOSPI,NHFE53SK하이닉콜,,,,,,,
 55FE54,KOSPI,NHFE54SK하이닉콜,,,,,,,
 55FE55,KOSPI,NHFE55SK하이닉콜,,,,,,,
@@ -1473,12 +1475,9 @@ Symbol,Market,Name,Sector,Industry,ListingDate,SettleMonth,Representative,HomePa
 55FE59,KOSPI,NHFE59케이티지콜,,,,,,,
 55FE60,KOSPI,NHFE60케이티지콜,,,,,,,
 55FE61,KOSPI,NHFE61케이티지콜,,,,,,,
-55FE62,KOSPI,NHFE62케이티지콜,,,,,,,
 55FE63,KOSPI,NHFE63케이티지콜,,,,,,,
 55FE64,KOSPI,NHFE64케이티지콜,,,,,,,
 55FE65,KOSPI,NHFE65케이티지콜,,,,,,,
-55FE66,KOSPI,NHFE66케이티지콜,,,,,,,
-55FE67,KOSPI,NHFE67케이티지콜,,,,,,,
 55FE68,KOSPI,NHFE68네이버콜,,,,,,,
 55FE69,KOSPI,NHFE69네이버콜,,,,,,,
 55FE70,KOSPI,NHFE70네이버콜,,,,,,,
@@ -1507,9 +1506,7 @@ Symbol,Market,Name,Sector,Industry,ListingDate,SettleMonth,Representative,HomePa
 55FE93,KOSPI,NHFE93KOSPI200콜,,,,,,,
 55FE94,KOSPI,NHFE94KOSPI200풋,,,,,,,
 55FE95,KOSPI,NHFE95KOSPI200풋,,,,,,,
-55FE96,KOSPI,NHFE96삼성전자콜,,,,,,,
 55FF00,KOSPI,NHFF00삼성전자콜,,,,,,,
-55FF03,KOSPI,NHFF03삼성전자콜,,,,,,,
 55FF04,KOSPI,NHFF04SK하이닉콜,,,,,,,
 55FF05,KOSPI,NHFF05SK하이닉콜,,,,,,,
 55FF06,KOSPI,NHFF06SK하이닉콜,,,,,,,
@@ -2054,8 +2051,6 @@ Symbol,Market,Name,Sector,Industry,ListingDate,SettleMonth,Representative,HomePa
 004780,KOSDAQ,대륙제관,기타 금속 가공제품 제조업,휴대용부탄가스 및 금속포장용기,1994-12-29,12월,"박봉국, 박봉준 (각자대표이사)",http://www.drcc.co.kr,서울특별시
 005750,KOSPI,대림B&Co,"내화, 비내화 요업제품 제조업","위생도기,내장타일,조립식욕실제품 제조,판매/부동산 임대",1992-12-23,12월,강태식,http://www.daelimbnco.com,경상남도
 001880,KOSPI,대림건설,건물 건설업,"도로건설공사,토목공사,건축공사,조경공사/부동산 임대,매매",1977-12-22,12월,조남창,http://www.daelimcon.co.kr,인천광역시
-000210,KOSPI,대림산업,토목 건설업,지주회사,1976-02-02,12월,배원복,http://www.dlholdings.co.kr,서울특별시
-000215,KOSPI,대림산업우,,,,,,,
 017650,KOSDAQ,대림제지,기타 종이 및 판지 제품 제조업,골판지원지,1994-11-07,12월,류 창 승,http://www.daelimpaper.co.kr,경기도
 006570,KOSPI,대림통상,기타 금속 가공제품 제조업,"수전금구,비데,위생도기,샤워부스,타일,양식기,무역",1975-11-20,12월,"고은희, 이지용",http://www.dlt.co.kr,서울특별시
 007720,KOSDAQ,대명소노시즌,상품 종합 도매업,기업소모성자재 구매대행업,1994-01-06,12월,김범철,http://daemyungcorporation.com,강원도
@@ -2658,7 +2653,6 @@ Symbol,Market,Name,Sector,Industry,ListingDate,SettleMonth,Representative,HomePa
 52FF11,KOSPI,미래FF11넷마블콜,,,,,,,
 52FF12,KOSPI,미래FF12넷마블콜,,,,,,,
 52FF13,KOSPI,미래FF13넷마블콜,,,,,,,
-52FF18,KOSPI,미래FF18NC소프트콜,,,,,,,
 52FF19,KOSPI,미래FF19SK텔레콤콜,,,,,,,
 52FF20,KOSPI,미래FF20SK텔레콤콜,,,,,,,
 52FF21,KOSPI,미래FF21SK텔레콤콜,,,,,,,
@@ -4292,6 +4286,7 @@ Symbol,Market,Name,Sector,Industry,ListingDate,SettleMonth,Representative,HomePa
 019540,KOSDAQ,일지테크,자동차 신품 부품 제조업,"차체(라지에타, 팩케이지, 씨트 크로스, 대쉬 판넬)",1992-11-03,12월,"구본일,구준모(각자대표)",http://www.iljitech.co.kr,경상북도
 081000,KOSPI,일진다이아,기타 화학제품 제조업,"공업용 합성다이아몬드 제조,도매,수출입",2004-12-22,12월,"정희원, 변정출",http://www.iljindiamond.co.kr,충청북도
 020760,KOSPI,일진디스플,반도체 제조업,"박막액정표시장치(TFT-LCD) 패널,LT(리튬탄탈에이트)웨이퍼,분말야금제품(초고압용공구),보석다이아몬드 제조,판매/종합건설",2002-01-09,12월,대표이사 심임수,http://www.iljindisplay.co.kr,충청북도
+0207601B,KOSPI,일진디스플 19R,,,,,,,
 020150,KOSPI,일진머티리얼즈,전자부품 제조업,"인쇄회로기판(PCB)용 전해동박(ACF,UCF),에폭시용 동박,전해콘덴서용 알루미늄박 제조,판매",2011-03-04,12월,"허재명, 양점식 (각자대표)",http://www.iljinm.co.kr,전라북도
 103590,KOSPI,일진전기,절연선 및 케이블 제조업,,2008-08-01,12월,황수 (단독대표),,경기도
 094820,KOSDAQ,일진파워,전기 및 통신 공사업,"열교환기,압력용기",2007-11-06,12월,이광섭,http://ijeng.com,울산광역시
@@ -5432,7 +5427,6 @@ Symbol,Market,Name,Sector,Industry,ListingDate,SettleMonth,Representative,HomePa
 57FS00,KOSPI,한국FS00한미약품콜,,,,,,,
 57FS01,KOSPI,한국FS01모비스콜,,,,,,,
 57FS02,KOSPI,한국FS02모비스콜,,,,,,,
-57FS03,KOSPI,한국FS03모비스콜,,,,,,,
 57FS04,KOSPI,한국FS04현대차콜,,,,,,,
 57FS05,KOSPI,한국FS05현대차콜,,,,,,,
 57FS06,KOSPI,한국FS06현대차콜,,,,,,,
@@ -5471,7 +5465,6 @@ Symbol,Market,Name,Sector,Industry,ListingDate,SettleMonth,Representative,HomePa
 57FS43,KOSPI,한국FS43SK하이닉콜,,,,,,,
 57FS44,KOSPI,한국FS44SK하이닉콜,,,,,,,
 57FS49,KOSPI,한국FS49롯데케미풋,,,,,,,
-57FS53,KOSPI,한국FS53삼성SDS풋,,,,,,,
 57FS54,KOSPI,한국FS54삼성전기풋,,,,,,,
 57FS55,KOSPI,한국FS55삼성전자풋,,,,,,,
 57FS56,KOSPI,한국FS56삼성전자풋,,,,,,,
